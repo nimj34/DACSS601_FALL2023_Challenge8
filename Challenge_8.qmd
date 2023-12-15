@@ -19,11 +19,10 @@ When you click the **Render** button a document will be generated that includes 
 #Five Nights at Freddys
 ```
 
-You can add options to executable code like this
+2.  What did you eat for today\'s lunch?
 
 ```{r}
-#| echo: false
-2 * 2
+#I haven't had lunch yet.
 ```
 
 The `echo: false` option disables the printing of code (only output is displayed).
